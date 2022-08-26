@@ -38,7 +38,7 @@ ordered list
 
 nested list
 1. item 1
-    - item 1.1
+    * item 1.1
     - item 1.2
 
 2. item 2
