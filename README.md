@@ -49,3 +49,14 @@ nested list
 
 [my facebook profile](https://web.facebook.com/DaniyalSarwari/)
 
+
+TODO list
+
+- [x] git
+- [x] linux basic commands
+- [x] docker
+- [] kubernetes
+- [x] blockchain theory
+- [] geth installation
+- [] typescript
+
