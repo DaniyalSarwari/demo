@@ -36,5 +36,14 @@ ordered list
 2. item 2
 3. item 3
 
+nested list
+1. item 1
+    - item 1.1
+    - item 1.2
+
+2. item 2
+    - item 2.1
+    - item 2.2 
+
 [my facebook profile](https://web.facebook.com/DaniyalSarwari/)
 
