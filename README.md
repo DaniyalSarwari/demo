@@ -1,62 +1,69 @@
 
-# heading one
-
-## heading two
+# heading 1
 
 ###### heading six
 
-`let age = 27;`
+> quotation
 
-*italic text*
-_italic text_
+`code`
 
-**bold text**
-__bold text__
-
+```
+code block
+```
 - bullet
+* bullet
 
-***all text is bold and italic***
+- [x] checklist
+- [ ] unchecked item
 
-~~strike through~~
-
-> Quotation
-
-so basic git commands are
-```
-git status
-git init
-git branch -l
-```
 unordered list
-* bullet using *
-- bullet using -
+- item 1
+    * item 2
+        - item 3
 
 ordered list
 1. item 1
 2. item 2
-3. item 3
+3. item3
 
-nested list
+[facebook](https://web.facebook.com/DaniyalSarwari/)
+
+~~strike through~~
+
+**bold**
+*italic*
+
+# heading 1
+
+###### heading six
+
+> quotation
+
+`code`
+
+```
+code block
+```
+- bullet
+* bullet
+
+- [x] checklist
+- [ ] unchecked item
+
+unordered list
+- item 1
+    * item 2
+        - item 3
+
+ordered list
 1. item 1
-    * item 1.1
-        * item 1.1.1
-        - item 1.1.2
-    - item 1.2
-
 2. item 2
-    - item 2.1
-    - item 2.2 
+3. item3
 
-[my facebook profile](https://web.facebook.com/DaniyalSarwari/)
+[facebook](https://web.facebook.com/DaniyalSarwari/)
 
+~~strike through~~
 
-TODO list
-
-- [x] git
-- [x] linux basic commands
-- [x] docker
-- [ ] kubernetes
-- [x] blockchain theory
-- [ ] geth installation
-- [ ] typescript
-
+**bold**
+*italic*
+***all text bold and italic***
