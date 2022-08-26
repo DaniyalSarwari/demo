@@ -55,8 +55,8 @@ TODO list
 - [x] git
 - [x] linux basic commands
 - [x] docker
-- [] kubernetes
+- [ ] kubernetes
 - [x] blockchain theory
-- [] geth installation
-- [] typescript
+- [ ] geth installation
+- [ ] typescript
 
